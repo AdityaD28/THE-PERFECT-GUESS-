@@ -83,3 +83,5 @@ Developed by Aditya Dasappanavar
 If you liked it, give it a star and share it with your friends!
 
 ### License
+
+This project is licensed under the MIT License. See LICENSE for details.
